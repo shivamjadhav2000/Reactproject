@@ -1,0 +1,55 @@
+.nav{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: orange;
+  color:white;
+}
+.nav-links{
+  width:40%;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style:none;
+}
+.FormSec{
+  margin:2% 20%;
+  padding:5px;
+  padding-bottom:35px;
+  padding-right:5px;
+  background-color: rgba(45, 46, 48, 0.171);
+}
+.creatCard{
+  margin-left:25%;
+  width:200px;
+  height:50px;
+  border:1px solid rgba(10, 214, 10, 0.623);
+
+  
+}
+
+
+.card{
+ text-align: center;
+ margin:0 35%;
+ background-color: rgba(45, 46, 48, 0.377);
+}
+
+.CD{
+  margin:5%;
+}
+.CId{
+ float:right;
+}
+.title{
+  text-align: center;
+}
+.Add{
+
+  width:100px;
+  float:right;
+  height:50px;
+  background-color: rgba(10, 214, 10, 0.623);
+  border:none;
+}
